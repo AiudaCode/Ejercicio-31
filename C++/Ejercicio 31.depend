@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1478364048 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 31\main.cpp
+	<iostream>
+	"Recursividad.h"
+
+1478363632 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 31\include\recursividad.h
+
+1478364029 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 31\src\recursividad.cpp
+	"Recursividad.h"
+
